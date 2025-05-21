@@ -1,3 +1,5 @@
+![FNV Mod Manager Icon](https://raw.githubusercontent.com/natone2/FNV_Mod_Manager/refs/heads/main/icon.png)
+
 # FNV Mod Manager (Linux)
 
 **Version 0.3 - Stable & Functional**
