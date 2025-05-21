@@ -4,11 +4,12 @@
 
 Author: Álex M  
 Website: [natone.pro](https://natone.pro)  
-[🔗 Project Page](https://natone.pro/proyectos/FNV_Mod_Manager/)
+[🔗 Project Page](https://natone.pro/proyectos/)
+[📦 Binary](https://natone.pro/proyectos/uploads/FNV_Mod_Manager_v0.3_Linux.7z) 
 
 ---
 
-## 📦 Description
+## 📜 Description
 
 FNV Mod Manager for Linux is a lightweight GUI tool to manage Fallout: New Vegas mods on Linux.  
 It supports both Nexus Mods integration and local mod installation, with a user-friendly tabbed interface.
