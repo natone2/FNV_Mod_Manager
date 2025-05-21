@@ -19,7 +19,7 @@ from PyQt5.QtCore import Qt
 
 # --- Constants ---
 CONFIG_FILE = os.path.expanduser("~/.config/fnv_mod_manager.json")
-NEXUS_API_KEY = "TU_API_KEY_AQUÍ"  # ¡Regístrate en Nexus Mods!
+NEXUS_API_KEY = "YOUR_API_KEY_HERE"  # Register to Nexus Mods!
 NEXUS_API_URL = "https://api.nexusmods.com/v1/games/falloutnewvegas/mods/{mod_id}.json"
 
 class ModManager(QMainWindow):
